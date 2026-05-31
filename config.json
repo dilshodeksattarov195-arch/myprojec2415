@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokendecrypt",
+        "uuid": 7769055,
+        "checksum": "s1xhza"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
